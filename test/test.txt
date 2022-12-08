@@ -1,3 +1,12 @@
 first
 
 A
+
+<<<<<<< Updated upstream
+
+C
+=======
+양꼬치 조아~ 양꼬치 사랑해~
+>>>>>>> Stashed changes
+
+D
